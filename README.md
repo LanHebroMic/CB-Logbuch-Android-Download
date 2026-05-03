@@ -18,7 +18,7 @@ Die App wird als Android APK gebaut.
 
 ## Datenschutz
 
-Sicherheit und Privatsphäre stehen im Vordergrund. Alle Daten werden ausschließlich in einer lokalen SQLite-Datenbank auf dem Endgerät gespeichert. Details findest du in der privacy-policy.md.
+Sicherheit und Privatsphäre stehen im Vordergrund. Alle Daten werden ausschließlich in einer lokalen SQLite-Datenbank auf dem Endgerät gespeichert.
 
 ---
 **Version:** 1.0.1  
