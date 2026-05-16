@@ -9,16 +9,19 @@
 *   🌍 **Ländererkennung:** Automatische Bestimmung des Landes anhand von Amateurfunk-Präfixen oder CB-Divisionen.
 *   📏 **Distanzberechnung:** Sofortige Berechnung der Entfernung basierend auf QTH-Locatoren.
 *   🛰️ **Band-Automatik:** Erkennt das Frequenzband automatisch (inkl. CB-Kanalanzeige).
+*   📍 **GPS-Locator:** Automatische Ermittlung des eigenen Maidenhead-Locators per GPS-Knopf im Setup.
+*   🪪 **Eigene Station:** Eigenes Rufzeichen und Locator werden pro QSO gespeichert und im ADIF-Export ausgegeben (OPERATOR / MY_GRIDSQUARE).
 *   💾 **ADIF Export/Import:** Volle Kompatibilität mit Standard-Programmen wie Log4OM oder Cloudlog.
 *   🔒 **100% Offline & Lokal:** Keine Cloud, kein Registrierungszwang. Daten liegen in einer lokalen SQLite-DB.
 *   🕒 **Echtzeit-UTC:** Integrierte UTC-Uhr für präzise Zeitstempel.
+*   🎨 **Modernes Material Design 3:** Gmail-artiges Navigationsmenü, Kartendesign und Dark/Light-Mode.
 
 ## Datenschutz
 
 Privatsphäre steht an erster Stelle. Alle Daten verbleiben auf deinem Gerät. Details hierzu findest du in der [Datenschutzerklärung](privacy-policy.md).
 
 ---
-**Version:** 1.0.3  
+**Version:** 1.0.4  
 **Entwickler:** LanHebroMic
 **GitHub:** [LanHebroMic/CB-Logbuch-Android-Download](https://github.com/LanHebroMic/CB-Logbuch-Android-Download)
 
