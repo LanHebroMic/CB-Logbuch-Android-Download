@@ -21,7 +21,7 @@
 Privatsphäre steht an erster Stelle. Alle Daten verbleiben auf deinem Gerät. Details hierzu findest du in der [Datenschutzerklärung](privacy-policy.md).
 
 ---
-**Version:** 1.0.4  
+**Version:** 1.0.5  
 **Entwickler:** LanHebroMic
 **GitHub:** [LanHebroMic/CB-Logbuch-Android-Download](https://github.com/LanHebroMic/CB-Logbuch-Android-Download)
 
