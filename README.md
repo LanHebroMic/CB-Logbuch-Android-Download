@@ -20,35 +20,23 @@
 
 Privatsphäre steht an erster Stelle. Alle Daten verbleiben auf deinem Gerät. Details hierzu findest du in der [Datenschutzerklärung](privacy-policy.md).
 
----
-**Version:** 1.0.4  
-**Entwickler:** LanHebroMic
-**GitHub:** [LanHebroMic/CB-Logbuch-Android-Download](https://github.com/LanHebroMic/CB-Logbuch-Android-Download)
-
-
-
-# CB-Logbuch für Android – Werde Teil der Test-Crew! 🎙️
-
-Hallo Funkfreunde,
-
-ich arbeite an einer neuen Android-App, die das Loggen eurer QSOs so einfach wie möglich macht – direkt auf dem Smartphone, inklusive intelligenter Ländererkennung und Distanzberechnung.
+## 🎙️ Werde Teil der Test-Crew
 
 Die App ist fast fertig, aber für den finalen Schliff im Play Store brauche ich eure Hilfe als Tester! Da Google für private Entwickler mittlerweile eine Testphase mit echten Nutzern vorschreibt, zählt jede Anmeldung.
 
-### So bist du in wenigen Schritten dabei:
+**So bist du in wenigen Schritten dabei:**
 
-1. **Der Gruppe beitreten**  
-   Tritt bitte zuerst der Google Group bei (Voraussetzung von Google, damit der Download-Link funktioniert):  
+1. **Der Gruppe beitreten** – Voraussetzung von Google, damit der Download-Link funktioniert:  
    👉 https://groups.google.com/g/cb-logbuch
 
-2. **App installieren**  
-   Jetzt kannst du die App ganz normal über den Play Store laden:  
+2. **App installieren** – jetzt kannst du die App ganz normal über den Play Store laden:  
    👉 https://play.google.com/store/apps/details?id=com.lanhebromic.cblogbuch
 
-3. **Feedback geben (Wichtig!)**  
-   Hast du einen Fehler gefunden oder eine Idee für eine neue Funktion?  
-   Schreib einfach direkt in die https://play.google.com/store/apps/details?id=com.lanhebromic.cblogbuch oder nutze die Funktion **"Feedback an den Entwickler"** direkt im Play Store.
+3. **Feedback geben (wichtig!)** – Fehler gefunden oder eine Idee für eine neue Funktion? Nutze die Funktion **"Feedback an den Entwickler"** direkt im Play Store.
 
-Dein Feedback hilft mir riesig, die App für uns alle besser zu machen. Wenn ihr Fehler findet oder Wünsche habt – immer her damit!
+Dein Feedback hilft riesig, die App für uns alle besser zu machen. Wenn ihr Fehler findet oder Wünsche habt – immer her damit! Vielen Dank für eure Unterstützung und 73!
 
-Vielen Dank für eure Unterstützung und 73!
+---
+**Version:** 1.0.4  
+**Entwickler:** LanHebroMic  
+**GitHub:** [LanHebroMic/CB-Logbuch-Android-Download](https://github.com/LanHebroMic/CB-Logbuch-Android-Download)

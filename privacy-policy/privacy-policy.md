@@ -37,4 +37,4 @@ Die App wird über den Google Play Store vertrieben. Google erhebt unter Umstän
 ## 7. Änderungen dieser Datenschutzerklärung
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen der App-Funktionen abzubilden.
 
-*Stand: Mai 2024*
+*Stand: Mai 2026*
