@@ -18,7 +18,7 @@
 
 ## Datenschutz
 
-Privatsphäre steht an erster Stelle. Alle Daten verbleiben auf deinem Gerät. Details hierzu findest du in der [Datenschutzerklärung](privacy-policy.md).
+Privatsphäre steht an erster Stelle. Alle Daten verbleiben auf deinem Gerät. Details hierzu findest du in der [Datenschutzerklärung](privacy-policy/privacy-policy.md).
 
 ## 🎙️ Werde Teil der Test-Crew
 
@@ -37,6 +37,6 @@ Die App ist fast fertig, aber für den finalen Schliff im Play Store brauche ich
 Dein Feedback hilft riesig, die App für uns alle besser zu machen. Wenn ihr Fehler findet oder Wünsche habt – immer her damit! Vielen Dank für eure Unterstützung und 73!
 
 ---
-**Version:** 1.0.4  
+**Version:** 1.0.7  
 **Entwickler:** LanHebroMic  
 **GitHub:** [LanHebroMic/CB-Logbuch-Android-Download](https://github.com/LanHebroMic/CB-Logbuch-Android-Download)
